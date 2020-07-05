@@ -13,7 +13,7 @@
 
 First, make sure you have [Git LFS](https://git-lfs.github.com/) installed.
 ```
-git clone https://github.com/LeiShi1313/scf-headless-chrome.git
+git clone https://github.com/HCX00/scf-headless-chrome.git
 cd scf-headless-chrome
 npm install
 pip install -r requirements.txt -t .
